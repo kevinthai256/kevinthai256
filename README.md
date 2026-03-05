@@ -15,7 +15,7 @@ Some projects I'm curretly working on...
 
 - [**Docere**](https://docere.app/):
   Architected a semantic memory layer in **Python** that fetches student profiles and course materials in parallel from **PostgreSQL** to provide high-fidelity, tailored LLM responses.
-- [**Hi Study Buddy**](https://histudybuddy.vercel.app/):
+- [**Hi Study Buddy**](https://github.com/kevinthai256/StudyBuddy):
   A **Next.js** and **Firebase** platform that synchronizes concurrent devices for 100+ users using **React** Hooks and streamlines workflows via min-heap task prioritization.
     
 - [**Izumi Discord Bot**](github.com/kevinthai256/Izumi-v3):
