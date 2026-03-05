@@ -18,7 +18,7 @@ Some projects I'm curretly working on...
 - [**Hi Study Buddy**](https://github.com/kevinthai256/StudyBuddy):
   A **Next.js** and **Firebase** platform that synchronizes concurrent devices for 100+ users using **React** Hooks and streamlines workflows via min-heap task prioritization.
     
-- [**Izumi Discord Bot**](github.com/kevinthai256/Izumi-v3):
+- [**Izumi Discord Bot**](https://github.com/kevinthai256/Izumi-v3):
   Implemented **Infrastructure-as-Code (IaC)** using **Terraform** to deploy scalable **DynamoDB** storage and **Python** health monitoring for 80+ Discord communities.
     
 - [**The Double Meaning of Foundation**](https://www.linkedin.com/in/kevinthai256/overlay/1704870722073/single-media-viewer/?profileId=ACoAAETGcTYB1MAlo3zu_8c3lYjeFHDtHR4-C5I):
