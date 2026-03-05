@@ -29,6 +29,8 @@ Some projects I'm curretly working on...
 ## 🌐 Connect with Me
 
 Feel free to reach out to me on [**LinkedIn**](www.linkedin.com/in/kevinthai256/) or [**email**](mailto:kevinthai256@gmail.com)!
+www.linkedin.com/in/kevinthai256/
+kevinthai256@gmail.com
 
 
 
