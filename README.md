@@ -4,7 +4,7 @@
 ## 💙 About Me
 
 - 🛠️ **Top skills:** Python, React/React Native, Java, Cloud Infrastructure (AWS/GCP/Terraform)
-- 🏛️ **Education:** Computer Science at the University of Washington
+- 🏛️ **Education:** Bachelor's of Science in Computer Science at the University of Washington (In Progress)
 - 🌍 **Current Position:** Software Engineering Intern at [Docere](https://docere.app/)
 - 🌱 Building accessible and performance-driven technology to support mental health and education through automation of workflows and LLM finetuning.
 - 🤝 Always open to collaboration and excited for any opportunity to learn!
