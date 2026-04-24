@@ -5,7 +5,6 @@
 
 - 🛠️ **Top skills:** Python, React/React Native, Java, Cloud Infrastructure (AWS/GCP/Terraform)
 - 🏛️ **Education:** Bachelor's of Science in Computer Science at the University of Washington (In Progress)
-- 🌍 **Current Position:** Software Engineering Intern at [Docere](https://docere.app/)
 - 🌱 Building accessible and performance-driven technology to support mental health and education through automation of workflows and LLM finetuning.
 - 🤝 Always open to collaboration and excited for any opportunity to learn!
 
@@ -20,10 +19,6 @@ Some projects I'm curretly working on...
     
 - [**Izumi Discord Bot**](https://github.com/kevinthai256/Izumi-v3):
   Implemented **Infrastructure-as-Code (IaC)** using **Terraform** to deploy scalable **DynamoDB** storage and **Python** health monitoring for 80+ Discord communities.
-    
-- [**The Double Meaning of Foundation**](https://www.linkedin.com/in/kevinthai256/overlay/1704870722073/single-media-viewer/?profileId=ACoAAETGcTYB1MAlo3zu_8c3lYjeFHDtHR4-C5I):
-  Led a 5-person team to model household income disparities across Washington State and displayed findings on a [**Tableau Dashboard**](https://public.tableau.com/views/TheDoubleMeaningofFoundation/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), earning a $6,000 award for data-driven advocacy.
-
 ---
 
 ## 🌐 Connect with Me
